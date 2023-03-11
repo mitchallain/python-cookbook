@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "python-cookbook"
+version = "0.1.0"
+description = ""
+authors = ["Mitchell Allain <allain.mitch@gmail.com>"]
+readme = "README.md"
+packages = [{include = "python_cookbook"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pydantic = "^1.10.6"
+snakeviz = "^2.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
