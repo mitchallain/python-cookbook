@@ -1,7 +1,6 @@
 # Python Cookbook
 
-Organized examples and notes on Python language features and some of my
-preferred patterns.
+Organized examples and notes on Python language features, third-party packages, and some of my preferred patterns.
 
 ## Project Organization
 

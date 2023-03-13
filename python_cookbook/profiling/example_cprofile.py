@@ -2,7 +2,7 @@ import cProfile
 import os
 from snakeviz import cli
 
-from .algos import factorial, quicksort
+from python_cookbook.profiling.algos import factorial, quicksort
 
 
 def main():
